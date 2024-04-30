@@ -7,4 +7,8 @@ Codes for DS-GA 1019 final project
 
 **non-mpi.py**: raw codes for the Monte Carlo simulation part.
 
-**with-mpi.py**: the MPI optimized MC simulation codes. Make sure you run it with the command **mpirun --np 8 python3 with_mpi.py**
+**with-mpi.py**: the MPI optimized MC simulation codes. Make sure you run it with the command
+
+```
+mpirun --np 8 python3 with_mpi.py
+```
